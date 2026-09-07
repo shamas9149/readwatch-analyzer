@@ -2,7 +2,7 @@
 
 A tool for analyzing your personal reading and movie-watching history. Import your Goodreads library export and Letterboxd data exports into a local SQLite database, then explore stats about your reading and watching habits — ratings, pace, streaks, and more — through a CLI or a visual dashboard.
 
-**[Live Dashboard →]([(https://shamas9149-readwatch-analyzer-dashboard-x62kur.streamlit.app/)])**
+**[Live Dashboard →](https://shamas9149-readwatch-analyzer-dashboard-x62kur.streamlit.app/)**
 
 ## Features
 
